@@ -9,15 +9,32 @@ Overview
 This GitHub repository contains the code and documentation for a Telecom Churn Classification project. The goal of this project is to predict customer churn in a telecom company using various classification algorithms. Customer churn is a critical issue for telecom companies, as retaining customers is often more cost-effective than acquiring new ones. By accurately identifying customers at risk of churning, telecom companies can take proactive measures to retain them.
 
 Table of Contents
+
+
+
 Introduction
+
+
 Dataset
-Installation
-Usage
+
+
+
 Algorithms
+
+
 Results
+
+
+
 Contributing
-License
+
+
+
+
+
 Introduction
+
+
 Telecom churn refers to the phenomenon where customers switch from one telecom service provider to another or completely disconnect from the service. This project aims to build a predictive model that can identify potential churners based on historical customer data. The primary objective is to reduce customer churn by providing insights and actionable recommendations to the telecom company.
 
 Dataset
